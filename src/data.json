@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "JavaScript and jQuery",
+      "author": "Jon Duckett",
+      "price": 62,
+      "favourite": false,
+      "img": "https://source.unsplash.com/300x400/?book",
+      "publish_year": 2016
+    },
+    {
+      "id": 2,
+      "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "author": "Robert C. Martin",
+      "price": 45,
+      "favourite": true,
+      "img": "https://source.unsplash.com/300x400/?book",
+      "publish_year": 2008
+    },
+    {
+      "id": 3,
+      "name": "The Pragmatic Programmer: Your Journey to Mastery",
+      "author": "David Thomas, Andrew Hunt",
+      "price": 55,
+      "favourite": false,
+      "img": "https://source.unsplash.com/300x400/?book",
+      "publish_year": 1999
+    },
+    {
+      "id": 4,
+      "name": "Title of Book 4",
+      "author": "Author Name 4",
+      "price": 40,
+      "favourite": true,
+      "img": "https://source.unsplash.com/300x400/?book",
+      "publish_year": 2021
+    },
+    {
+      "id": 5,
+      "name": "Title of Book 5",
+      "author": "Author Name 5",
+      "price": 38,
+      "favourite": false,
+      "img": "https://source.unsplash.com/300x400/?book",
+      "publish_year": 2015
+    },
+    {
+      "id": 6,
+      "name": "Title of Book 6",
+      "author": "Author Name 6",
+      "price": 50,
+      "favourite": true,
+      "img": "https://source.unsplash.com/300x400/?book",
+      "publish_year": 2020
+    },
+    {
+      "id": 31,
+      "name": "Advanced Web Development",
+      "author": "Karen Smith",
+      "price": 55,
+      "favourite": false,
+      "img": "https://source.unsplash.com/300x400/?web-development",
+      "publish_year": 2018
+    },
+    {
+      "id": 32,
+      "name": "Data Science Essentials",
+      "author": "Michael Johnson",
+      "price": 48,
+      "favourite": true,
+      "img": "https://source.unsplash.com/300x400/?data-science",
+      "publish_year": 2020
+    },
+    {
+      "id": 33,
+      "name": "Digital Marketing Strategies",
+      "author": "Emma White",
+      "price": 42,
+      "favourite": false,
+      "img": "https://source.unsplash.com/300x400/?digital-marketing",
+      "publish_year": 2019
+    }
+]  
